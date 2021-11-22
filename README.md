@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipankar Halder</h1>
-<h3 align="center">MERN stack Developer</h3>
+<h3 align="center">Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipankar11137&label=Profile%20views&color=0e75b6&style=flat" alt="dipankar11137" /> </p>
 
@@ -22,5 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipankar11137&show_icons=true&locale=en" alt="dipankar11137" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipankar11137&" alt="dipankar11137" /></p>
-
-

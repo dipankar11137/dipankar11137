@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dipankar Halder</h1>
-<h3 align="center">Developer</h3>
+<h3 align="center">MERN Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipankar11137&label=Profile%20views&color=0e75b6&style=flat" alt="dipankar11137" /> </p>
 
 - 🔭 I’m currently working on **Self Development**
 
-- 🌱 I’m currently learning **Python**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

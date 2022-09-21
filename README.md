@@ -15,9 +15,9 @@
 - 📫 How to contact me: **dipankar.halder117@gmail.com**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipankar11137&show_icons=true&locale=en&layout=compact" alt="dipankar11137" /></p>
-<br />
-<br />
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipankar11137&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipankar11137&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 

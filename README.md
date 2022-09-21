@@ -1,3 +1,6 @@
+<img src="![image](https://user-images.githubusercontent.com/94775674/191441468-8c2d37b4-3175-4c8f-9771-0aba38ee64a2.png)
+" alt="Italian Trulli">
+
 <h1 align="center">Hi 👋, I'm Dipankar Halder</h1>
 <h3 align="center">Web Developer</h3>
 

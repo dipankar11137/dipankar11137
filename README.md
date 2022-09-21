@@ -1,6 +1,6 @@
 <img src="![image](https://user-images.githubusercontent.com/94775674/191441468-8c2d37b4-3175-4c8f-9771-0aba38ee64a2.png)
 " alt="Italian Trulli">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipankar11137&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h1 align="center">Hi 👋, I'm Dipankar Halder</h1>
 <h3 align="center">Web Developer</h3>
@@ -22,7 +22,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipankar11137&" alt="dipankar11137" /></p>
 
-<br/>
+<h1/>
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dipankar11137&bg_color=95d0c4&color=000000&line=395d0e&point=a1310c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 

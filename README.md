@@ -1,6 +1,6 @@
 
 <p align="center"> 
-<img  src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt=""  /> </a><p align="center"> 
+<img  src="https://i.ibb.co/yYpJxYZ/background.png" alt=""  /> </a><p align="center"> 
 
 
 <h1 align="center">Hi 👋, I'm Dipankar Halder</h1>
